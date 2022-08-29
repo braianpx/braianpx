@@ -1,17 +1,22 @@
 ### Hi there 👋
 
 ```js
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["bootstrap"]
-        },
-        backEnd: ["JavaScript", "TypeScript"],
-        databases: ["PostgreSQL", "MySQL","MongoDB"],
-    }
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React","React-Redux"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         ts: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "mySQL", "PostgreSQL"],
+   },
+   currentOccupation: ["open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
 };
 ```
 
