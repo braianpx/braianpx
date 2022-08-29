@@ -35,11 +35,19 @@
 ![Mongoose Badge](https://img.shields.io/badge/Mongoose-404D59?style=for-the-badge)
 ![Typegoose Badge](https://img.shields.io/badge/Typegoose-404D59?style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite Badege](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel Badge](	https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-   
+![Chaia Badge](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Mocha Badge](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Style Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Json Web Tokens Badge](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React Router Dom Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)   
 ---   
 
 ### Connect with me 📫 
