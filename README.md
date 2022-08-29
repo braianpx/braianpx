@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-´´´js
+```js
 const charles = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
@@ -13,7 +13,7 @@ const charles = {
         databases: ["PostgreSQL", "MySQL","MongoDB"],
     }
 };
-´´´
+```
 
 
 <h3 align="center"> You can find me 📫 </h3>
