@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+´´´js
 const charles = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
@@ -13,13 +13,14 @@ const charles = {
         databases: ["PostgreSQL", "MySQL","MongoDB"],
     }
 };
+´´´
 
 
 <h3 align="center"> You can find me 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/braianvaldez-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://braivaldez16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a>
+<a href="https://braivaldez16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 
