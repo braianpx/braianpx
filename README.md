@@ -64,7 +64,7 @@
 
 ---  
 
-<div align='start'>   
+<div align='center' disply='flex'>   
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braianpx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![braianpx's github stats](https://github-readme-stats.vercel.app/api?username=braianpx&show_icons=true&theme=default)  
