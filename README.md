@@ -36,7 +36,6 @@
 ![Typegoose Badge](https://img.shields.io/badge/Typegoose-404D59?style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite Badege](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
