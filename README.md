@@ -11,7 +11,7 @@
          
 🎓 Full Stack Developer & Economics and Management of Organizations.
          
-🌱 I'm currently learning new programing languages and new frameworks css, but in other hand I am continously improving my current skills working in personal projects.
+🌱 I'm currently learning new tecnologies and new practices, but in other hand I am continously improving my current skills working in personal projects.
 
 🕹 My hobbies are coding, go to the gym, play pool, playing videogames, reading, and watching movies and series.
 
