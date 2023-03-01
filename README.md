@@ -3,17 +3,18 @@
 #### I'm Braian from Argentina .
 <div aligh='left'>
          
-👾 I'm a passionate Full Stack web developer interested in front-end as much as back-end. I really like challenges, creating and learning. I am an empathetic, curious, open-minded person, with good communication and very creative.
-         
-💼 I have worked individually and I have had the pleasure of being able to meet and work as a team with good people who helped me a lot to develop my skills, learn, improve my practices. These were important experiences for me as they helped me grow as a developer and as a person.
+I'm Braian from Argentina .
+👾 I'm a passionate Full Stack web developer interested in both front-end and back-end. I really like challenges, creating and learning. I am an empathetic person, curious, open-minded, with good communication and very creative.
 
-   📌I invite you to see my projects! Scrolling down you will find my pinned repositories.
-         
-🎓 Full Stack Developer & Economics and Management of Organizations.
-         
-🌱 I'm currently learning new tecnologies and new practices, but in other hand I am continously improving my current skills working in personal projects.
+💼 I have worked individually and I have had the pleasure of being able to meet and work in a team with good people who helped me a lot to develop my skills, learn, improve my practices. They were important experiences for me as they helped me grow as a developer and as a person.
 
-🕹 My hobbies are coding, go to the gym, play pool, playing videogames, reading, and watching movies and series.
+I invite you to see my projects! Scrolling down you will find my pinned repositories.
+
+🎓 Full Stack Developer and Organizational Economics and Management.
+
+🌱 I'm currently learning new technologies and new practices, but on the other hand I'm continuously improving my current skills working on personal projects.
+
+🕹 My hobbies are coding, going to the gym, playing pool, playing video games, reading and watching movies and series.
 
 📫 You can email me at: braivaldez16@gmail.com
          
