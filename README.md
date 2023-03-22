@@ -54,7 +54,7 @@
 
 <div align='center'>
    
-<!-- [![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)]() -->
+[![My Portfolio Badge](https://img.shields.io/badge/my_portfolio-404D59?style=for-the-badge)](https://braianpx-portafolio.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braianvaldez-dev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"braivaldez16@gmail.com")
 
